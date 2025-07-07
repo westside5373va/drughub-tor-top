@@ -24,3 +24,5 @@ If your aim is to explore everything this darknet marketplace offers, make sure 
 
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/illustrations/thin.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/illustrations/archive.webp" alt="image" style="max-width: 100%;"><a>
+
+Update: url is live and reachable
